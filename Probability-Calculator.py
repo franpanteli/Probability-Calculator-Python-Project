@@ -44,10 +44,10 @@ class Hat:
             successful experiments
         -> Each time we run the draw function, we can calculate if the result matches its expected value 
         -> If it does, then we increment the value of a counter by 1
-        -> Then this repeated multiple times by the function <- The more it is then the more accurate the 
+        -> Then this is repeated multiple times by the function <- The more it is then, the more accurate the 
             outcome 
         -> Then we take the counter as a percentage of all of the experiments run 
-        -> This allows us to simulate a distribution of sample means for a given bag with a certain number 
+        -> This allows us to simulate a distribution of sample means for a given bag, with a certain number 
             of balls in it 
         -> The counter is only incremented if the output of this matches the expected probability for all 
             of the colours in the hat 
