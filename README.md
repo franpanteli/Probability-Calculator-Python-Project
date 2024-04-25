@@ -8,3 +8,12 @@ Error handling was implemented for this, to ensure that a series of conditions w
 ```
 git clone https://github.com/franpanteli/Probability-Calculator-Python-Project.git
 ```
+
+
+
+
+I independently completed freeCodeCamp’s Scientific Computing with Python certification, to invest in my scientific computing skills with Python. This repository contains my independent problem-solving work, as part of the fifteenth project in this curriculum. I devised a script for this (Probability-Calculator.py). 
+
+This formatted a list of sums and (or) subtractions into vertical outputs, whose results were returned if a second optional argument for the function was provided. The expected inputs and outputs of this function are provided in more depth below. Error handling was implemented for this, to ensure that a series of conditions were met for the function inputs and that its output was appropriately formatted. 
+
+The requirements for this were exported as a PDF from the project UI and annotated with in-depth problem solving approaches. These were written into Python in the project Probability-Calculator.py file, which was submitted to mark the successful completion of the fifteenth project in the certification. This enabled me to invest in my class and function defining skills with Python, aiding in developing my independent learning skills.
